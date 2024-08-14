@@ -43,3 +43,11 @@ Updating each product’s inventory individually can be tedious and error-prone.
 
 - **Script Not Running:** Ensure the file is in the root directory and that your server supports PHP execution.
 - **Errors:** Check your server error logs for detailed error messages or contact your hosting provider for support.
+
+## == Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+= 1.0.1 =
+* Known details box UI bug fixed
