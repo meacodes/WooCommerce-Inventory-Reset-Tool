@@ -150,6 +150,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             border: 1px solid #ccc;
             padding: 10px;
             background-color: #fff;
+            max-height: 300px;
+            overflow: scroll;
         }
         #toggleDetails {
             cursor: pointer;
